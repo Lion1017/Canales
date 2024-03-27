@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="babytv" tvg-name="BABYTV" group-title="Infantiles",BABYTV
+http://181.78.8.90:16123/play/ch01
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" group-title="Infantiles",DISCOVERY KIDS
+http://181.78.8.90:16123/play/ch02
+#EXTINF:-1 tvg-id="disney" tvg-name="DISNEY CHANNEL" group-title="Infantiles",DISNEY
+http://181.78.8.90:16123/play/ch03
+#EXTINF:-1 tvg-id="disneyjr" tvg-name="DISNEY JUNIOR" group-title="Infantiles",DISNEY JR
+http://181.78.8.90:16123/play/ch05
+#EXTINF:-1 tvg-id="infantil" tvg-name="CANAL INFANTIL" group-title="Infantiles",INFANTIL
+http://181.78.8.90:16123/play/ch06
+#EXTINF:-1 tvg-id="star" tvg-name="STAR CHANNEL" group-title="Infantiles",STAR
+http://181.78.8.90:16123/play/ch07
+#EXTINF:-1 tvg-id="fx" tvg-name="FOX" group-title="Entretenimiento y Películas",FX
+http://181.78.8.90:16123/play/ch08
+#EXTINF:-1 tvg-id="eurochannel" tvg-name="CARTOON NETWORK" group-title="Entretenimiento y Películas",EUROCHANNEL
+http://181.78.8.90:16123/play/ch09
+#EXTINF:-1 tvg-id="cinecanal" tvg-name="CINE CANAL" group-title="Entretenimiento y Películas",CINECANAL
+http://181.78.8.90:16123/play/ch10
+#EXTINF:-1 tvg-id="filmandartes" tvg-name="A3 Series" group-title="Entretenimiento y Películas",FILM & ARTES
+http://181.78.8.90:16123/play/ch11
+#EXTINF:-1 tvg-id="cinelatino" tvg-name="CINELATINO" group-title="Entretenimiento y Películas",CINELATINO
+http://181.78.8.90:16123/play/ch12
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" group-title="Entretenimiento y Películas",AMC
+http://181.78.8.90:16123/play/ch13
+#EXTINF:-1 tvg-id="dhe" tvg-name="DISNEY PLUS" group-title="Entretenimiento y Películas",DHE
+http://181.78.8.90:16123/play/ch14
+#EXTINF:-1 tvg-id="conexion" tvg-name="TELEPASTO" group-title="Entretenimiento y Películas",CONEXION
+http://181.78.8.90:16123/play/ch15
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN3" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch18
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN5" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch19
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN7" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch20
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN6" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch21
+#EXTINF:-1 tvg-id="discovery" tvg-name="DISCOVERY" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch22
+#EXTINF:-1 tvg-id="iddiscovery" tvg-name="DISCOVERY ID" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch23
+#EXTINF:-1 tvg-id="turbodiscovery" tvg-name="DISCOVERY TURBO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch24
+#EXTINF:-1 tvg-id="h&hdiscovery" tvg-name="DISCOVERY H&H" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch25
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch26
+#EXTINF:-1 tvg-id="gourmet" tvg-name="GOURMET" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch27
+#EXTINF:-1 tvg-id="food" tvg-name="FOOD" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch28
+#EXTINF:-1 tvg-id="animalplanel" tvg-name="ANIMAL PLANET" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch29
+#EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch30
+#EXTINF:-1 tvg-id="sun" tvg-name="SUN" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch31
+#EXTINF:-1 tvg-id="maschic" tvg-name="MAS CHIC" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch33
+#EXTINF:-1 tvg-id="tptve" tvg-name="TP TVE" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch34
+#EXTINF:-1 tvg-id="tvnovelas" tvg-name="TV NOVELAS" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch35
+#EXTINF:-1 tvg-id="veplus" tvg-name="VE PLUS" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch36
+#EXTINF:-1 tvg-id="telepacifico" tvg-name="TELEPACIFICO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch37
+#EXTINF:-1 tvg-id="enlace" tvg-name="ENLACE" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch38
+#EXTINF:-1 tvg-id="cristovision" tvg-name="CRISTO VISION" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch39
+#EXTINF:-1 tvg-id="ewtn" tvg-name="EWTN" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch40
+#EXTINF:-1 tvg-id="ctv" tvg-name="CTV" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch41
+#EXTINF:-1 tvg-id="hastag" tvg-name="HASHTAG" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch42
+#EXTINF:-1 tvg-id="telesur" tvg-name="TELESUR" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch43
+#EXTINF:-1 tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch44
+#EXTINF:-1 tvg-id="tlnovelas" tvg-name="TL NOVELAS" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch45
+#EXTINF:-1 tvg-id="edge" tvg-name="EDGE" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch47
+#EXTINF:-1 tvg-id="cinepremium" tvg-name="CINE PREMIUM" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch49
+#EXTINF:-1 tvg-id="lovenature" tvg-name="LOVE NATURE" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch50
+#EXTINF:-1 tvg-id="cinehispano" tvg-name="CINE HISPANO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch51
+#EXTINF:-1 tvg-id="cinefamiliar" tvg-name="CINE FAMILIAR" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch52
+#EXTINF:-1 tvg-id="mimusicar" tvg-name="MI MUSICA REGAETON" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch53
+#EXTINF:-1 tvg-id="mimusicaro" tvg-name="MI MUSICA ROMANTICA" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch54
+#EXTINF:-1 tvg-id="mimusicas" tvg-name="MI MUSICA SALSA" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch55
+#EXTINF:-1 tvg-id="mimusicap" tvg-name="MI MUSICA POPULAR" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch56
+#EXTINF:-1 tvg-id="dpelicula" tvg-name="D PELICULA" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch57
+#EXTINF:-1 tvg-id="caracol" tvg-name="CARACOL" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch58
+#EXTINF:-1 tvg-id="rcn" tvg-name="RCN" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch59
+#EXTINF:-1 tvg-id="penal" tvg-name="PENAL" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch60
+#EXTINF:-1 tvg-id="senalcolombia" tvg-name="SEÑAL COLOMBIA" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch61
+#EXTINF:-1 tvg-id="temporada4" tvg-name="TEMPORADA 4" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch62
+#EXTINF:-1 tvg-id="canal1" tvg-name="CANAL 1" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch63
+#EXTINF:-1 tvg-id="trece" tvg-name="CANAL 13" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch64
+#EXTINF:-1 tvg-id="teleantioquia" tvg-name="TELEANTIOQUIA" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch65
+#EXTINF:-1 tvg-id="tp" tvg-name="TELEPACIFICO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch66
+#EXTINF:-1 tvg-id="vivo" tvg-name="VIVO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch67
+#EXTINF:-1 tvg-id="canalcon" tvg-name="CANAL CONGRESO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch69
+#EXTINF:-1 tvg-id="canalcon" tvg-name="CANAL CONGRESO" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch69
+#EXTINF:-1 tvg-id="ccapital" tvg-name="CANAL CAPITAL" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch70
+#EXTINF:-1 tvg-id="zoom" tvg-name="ZOOM" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch71
+#EXTINF:-1 tvg-id="adultswim" tvg-name="ADULT SWIM" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch75
+#EXTINF:-1 tvg-id="espnknockout" tvg-name="ESPN KNOCKOUT" group-title="Deportes",ESPN
+http://181.78.8.90:16123/play/ch90
+#EXTINF:-1 tvg-id="" tvg-name="Varios" group-title="Varios",VARIOS
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
